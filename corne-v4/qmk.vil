@@ -36,7 +36,7 @@
         -1,
         "KC_LALT",
         "MO(2)",
-        "LT5(KC_SPACE)",
+        "TD(0)",
         -1
       ],
       [
@@ -167,7 +167,7 @@
         "KC_F3",
         "KC_F4",
         "KC_F5",
-        "KC_LANG1"
+        "KC_NO"
       ],
       [
         "KC_LSHIFT",
@@ -203,7 +203,7 @@
         "KC_UP",
         "KC_DOWN",
         "KC_LEFT",
-        "KC_LANG2"
+        "KC_NO"
       ],
       [
         "KC_BSLASH",
@@ -440,9 +440,9 @@
         -1,
         -1,
         -1,
-        "KC_0",
-        "KC_0",
         "KC_DOT",
+        "KC_0",
+        "KC_ENTER",
         -1
       ]
     ]
@@ -586,18 +586,18 @@
   "via_protocol": 9,
   "tap_dance": [
     [
+      "KC_SPACE",
+      "MO(5)",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      200
+      150
     ],
     [
       "KC_NO",
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      200
+      150
     ],
     [
       "KC_NO",

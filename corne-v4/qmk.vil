@@ -167,7 +167,7 @@
         "KC_F3",
         "KC_F4",
         "KC_F5",
-        "KC_NO"
+        "DF(1)"
       ],
       [
         "KC_LSHIFT",
@@ -812,11 +812,11 @@
   ],
   "combo": [
     [
-      "KC_COMMA",
-      "KC_DOT",
-      "KC_SLASH",
       "KC_NO",
-      "DF(1)"
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
     ],
     [
       "KC_NO",

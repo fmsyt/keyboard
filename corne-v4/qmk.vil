@@ -36,7 +36,7 @@
         -1,
         "KC_LALT",
         "MO(2)",
-        "LT5(KC_SPACE)",
+        "TD(0)",
         -1
       ],
       [
@@ -300,7 +300,7 @@
     ],
     [
       [
-        "QK_BOOT",
+        "KC_NO",
         "KC_NO",
         "KC_NO",
         "KC_NO",
@@ -562,7 +562,14 @@
     [
       [
         "tap",
-        "KC_ESCAPE",
+        "KC_ESCAPE"
+      ],
+      [
+        "delay",
+        10
+      ],
+      [
+        "tap",
         "KC_LANG2"
       ]
     ],
@@ -586,8 +593,8 @@
   "via_protocol": 9,
   "tap_dance": [
     [
-      "KC_NO",
-      "KC_NO",
+      "KC_SPACE",
+      "MO(5)",
       "KC_NO",
       "KC_NO",
       150

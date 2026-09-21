@@ -71,7 +71,7 @@
         -1,
         -1,
         "KC_RGUI",
-        "MO(3)",
+        "LT3(KC_BSPACE)",
         "KC_ENTER",
         -1
       ]

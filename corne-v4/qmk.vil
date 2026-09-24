@@ -60,7 +60,7 @@
       [
         "M0",
         "KC_SLASH",
-        "LT5(KC_DOT)",
+        "TD(1)",
         "KC_COMMA",
         "KC_M",
         "KC_N",
@@ -600,11 +600,11 @@
       150
     ],
     [
+      "KC_DOT",
+      "MO(5)",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      150
+      120
     ],
     [
       "KC_NO",

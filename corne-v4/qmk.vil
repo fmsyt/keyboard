@@ -71,7 +71,7 @@
         -1,
         -1,
         "KC_RGUI",
-        "LT3(KC_BSPACE)",
+        "MO(3)",
         "KC_ENTER",
         -1
       ]
@@ -203,7 +203,7 @@
         "KC_UP",
         "KC_DOWN",
         "KC_LEFT",
-        "KC_NO"
+        "QK_BOOT"
       ],
       [
         "KC_BSLASH",
@@ -604,7 +604,7 @@
       "MO(5)",
       "KC_NO",
       "KC_NO",
-      120
+      200
     ],
     [
       "KC_NO",
